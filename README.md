@@ -55,3 +55,6 @@ As a last resort, try flashing the `settings_reset` firmware for your board; thi
 - [ZMK's troubleshooting page](https://zmk.dev/docs/troubleshooting)
 - Stop by #keyboard-help in [MechWild's Discord](https://discord.gg/nfxHnsm)
 - Ask the ZMK experts in [ZMK's Discord](https://zmk.dev/community/discord/invite)
+
+
+testing rebuild for artifact generation
